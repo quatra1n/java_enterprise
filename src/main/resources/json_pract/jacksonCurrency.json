@@ -1,0 +1,316 @@
+[ {
+  "rate" : 0.32981,
+  "cc" : "DZD",
+  "special" : null,
+  "r030" : 12,
+  "txt" : "Алжирський динар",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 30.4539,
+  "cc" : "AUD",
+  "special" : null,
+  "r030" : 36,
+  "txt" : "Австралійський долар",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.3567,
+  "cc" : "BDT",
+  "special" : null,
+  "r030" : 50,
+  "txt" : "Така",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 31.5117,
+  "cc" : "CAD",
+  "special" : null,
+  "r030" : 124,
+  "txt" : "Канадський долар",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 6.3688,
+  "cc" : "CNY",
+  "special" : null,
+  "r030" : 156,
+  "txt" : "Юань Женьміньбі",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 2.0734,
+  "cc" : "CZK",
+  "special" : null,
+  "r030" : 203,
+  "txt" : "Чеська крона",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 6.8011,
+  "cc" : "DKK",
+  "special" : null,
+  "r030" : 208,
+  "txt" : "Данська крона",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 5.5861,
+  "cc" : "HKD",
+  "special" : null,
+  "r030" : 344,
+  "txt" : "Гонконгівський долар",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.132967,
+  "cc" : "HUF",
+  "special" : null,
+  "r030" : 348,
+  "txt" : "Форинт",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.46167,
+  "cc" : "INR",
+  "special" : null,
+  "r030" : 356,
+  "txt" : "Індійська рупія",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.0025778,
+  "cc" : "IDR",
+  "special" : null,
+  "r030" : 360,
+  "txt" : "Рупія",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 13.987,
+  "cc" : "ILS",
+  "special" : null,
+  "r030" : 376,
+  "txt" : "Новий ізраїльський шекель",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.27644,
+  "cc" : "JPY",
+  "special" : null,
+  "r030" : 392,
+  "txt" : "Єна",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.092275,
+  "cc" : "KZT",
+  "special" : null,
+  "r030" : 398,
+  "txt" : "Теньге",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.029094,
+  "cc" : "KRW",
+  "special" : null,
+  "r030" : 410,
+  "txt" : "Вона",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.000489,
+  "cc" : "LBP",
+  "special" : null,
+  "r030" : 422,
+  "txt" : "Ліванський фунт",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 10.8732,
+  "cc" : "MYR",
+  "special" : null,
+  "r030" : 458,
+  "txt" : "Малайзійський ринггіт",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 2.4515,
+  "cc" : "MXN",
+  "special" : null,
+  "r030" : 484,
+  "txt" : "Мексиканське песо",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 2.4893,
+  "cc" : "MDL",
+  "special" : null,
+  "r030" : 498,
+  "txt" : "Молдовський лей",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 25.2834,
+  "cc" : "NZD",
+  "special" : null,
+  "r030" : 554,
+  "txt" : "Новозеландський долар",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 4.5343,
+  "cc" : "NOK",
+  "special" : null,
+  "r030" : 578,
+  "txt" : "Норвезька крона",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 11.6637,
+  "cc" : "SAR",
+  "special" : null,
+  "r030" : 682,
+  "txt" : "Саудівський ріял",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 34.1584,
+  "cc" : "SGD",
+  "special" : null,
+  "r030" : 702,
+  "txt" : "Сінгапурський долар",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.0016623,
+  "cc" : "VND",
+  "special" : null,
+  "r030" : 704,
+  "txt" : "Донг",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 2.6084,
+  "cc" : "ZAR",
+  "special" : null,
+  "r030" : 710,
+  "txt" : "Ренд",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 4.6679,
+  "cc" : "SEK",
+  "special" : null,
+  "r030" : 752,
+  "txt" : "Шведська крона",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 55.2928,
+  "cc" : "CHF",
+  "special" : null,
+  "r030" : 756,
+  "txt" : "Швейцарський франк",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 1.34743,
+  "cc" : "THB",
+  "special" : null,
+  "r030" : 764,
+  "txt" : "Бат",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 11.9193,
+  "cc" : "AED",
+  "special" : null,
+  "r030" : 784,
+  "txt" : "Дирхам ОАЕ",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 14.9617,
+  "cc" : "TND",
+  "special" : null,
+  "r030" : 788,
+  "txt" : "Туніський динар",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.8166,
+  "cc" : "EGP",
+  "special" : null,
+  "r030" : 818,
+  "txt" : "Єгипетський фунт",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 58.3226,
+  "cc" : "GBP",
+  "special" : null,
+  "r030" : 826,
+  "txt" : "Фунт стерлінгів",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 43.7808,
+  "cc" : "USD",
+  "special" : "N",
+  "r030" : 840,
+  "txt" : "Долар США",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.43285,
+  "cc" : "RSD",
+  "special" : null,
+  "r030" : 941,
+  "txt" : "Сербський динар",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 25.7564,
+  "cc" : "AZN",
+  "special" : null,
+  "r030" : 944,
+  "txt" : "Азербайджанський манат",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 9.9722,
+  "cc" : "RON",
+  "special" : null,
+  "r030" : 946,
+  "txt" : "Румунський лей",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 0.9844,
+  "cc" : "TRY",
+  "special" : null,
+  "r030" : 949,
+  "txt" : "Турецька ліра",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 59.7436,
+  "cc" : "XDR",
+  "special" : null,
+  "r030" : 960,
+  "txt" : "СПЗ (спеціальні права запозичення)",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 50.8208,
+  "cc" : "EUR",
+  "special" : null,
+  "r030" : 978,
+  "txt" : "Євро",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 16.2573,
+  "cc" : "GEL",
+  "special" : null,
+  "r030" : 981,
+  "txt" : "Ларі",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 11.8734,
+  "cc" : "PLN",
+  "special" : null,
+  "r030" : 985,
+  "txt" : "Злотий",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 208244.69,
+  "cc" : "XAU",
+  "special" : null,
+  "r030" : 959,
+  "txt" : "Золото",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 3296.9,
+  "cc" : "XAG",
+  "special" : null,
+  "r030" : 961,
+  "txt" : "Срібло",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 86777.49,
+  "cc" : "XPT",
+  "special" : null,
+  "r030" : 962,
+  "txt" : "Платина",
+  "exchangedate" : "02.04.2026"
+}, {
+  "rate" : 65257.47,
+  "cc" : "XPD",
+  "special" : null,
+  "r030" : 964,
+  "txt" : "Паладій",
+  "exchangedate" : "02.04.2026"
+} ]
