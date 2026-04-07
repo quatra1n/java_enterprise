@@ -1,0 +1,24 @@
+{
+  "productId": "SKU-99482",
+  "name": "Беспроводные наушники",
+  "brand": "AudioTech",
+  "price": 2999.50,
+  "inStock": true,
+  "specifications": {
+    "color": "black",
+    "weightGrams": 250,
+    "bluetoothVersion": "5.2"
+  },
+  "reviews": [
+    {
+      "author": "Ivan",
+      "rating": 5,
+      "text": "Отличный звук и долго держат заряд."
+    },
+    {
+      "author": "Anna",
+      "rating": 4,
+      "text": "Немного давят на уши, но в целом хорошо."
+    }
+  ]
+}

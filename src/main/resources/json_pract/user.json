@@ -1,0 +1,15 @@
+{
+  "id": 1045,
+  "username": "alex_dev",
+  "email": "alex.dev@example.com",
+  "isActive": true,
+  "roles": [
+    "user",
+    "editor"
+  ],
+  "preferences": {
+    "theme": "dark",
+    "notifications": true,
+    "language": "ru"
+  }
+}
