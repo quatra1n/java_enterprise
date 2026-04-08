@@ -52,7 +52,7 @@ public class JacksonDataBind {
         String jsonString = objectMapper.writerWithDefaultPrettyPrinter()
                 .writeValueAsString(objects);
 
-        Files.write(Paths.get("D:\\JAVA\\java_enterprise\\src\\main\\resources\\json_pract\\jacksonCurrency.json"),
+        Files.write(Paths.get("D:\\JAVA\\java_enterprise\\src\\main\\resources\\json_pract\\jacksonTemp.json"),
                 jsonString.getBytes(), StandardOpenOption.CREATE);
 
         return objects;
@@ -66,7 +66,7 @@ public class JacksonDataBind {
         String jsonString = objectMapper.writerWithDefaultPrettyPrinter()
                 .writeValueAsString(object);
 
-        Files.write(Paths.get("D:\\JAVA\\java_enterprise\\src\\main\\resources\\json_pract\\jacksonCurrency.json"),
+        Files.write(Paths.get("D:\\JAVA\\java_enterprise\\src\\main\\resources\\json_pract\\jacksonTemp.json"),
                 jsonString.getBytes(), StandardOpenOption.CREATE);
 
         return object;
